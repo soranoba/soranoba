@@ -21,8 +21,8 @@
 
 #### 🚀  Latest releases I've contributed to
 
-- [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v2.0.0](https://github.com/soranoba/pageboy/releases/tag/v2.0.0), 1 week ago) - A SQL pagination library for golang with GORM.
-- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.11.0](https://github.com/soranoba/bbmustache/releases/tag/v1.11.0), 4 weeks ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
+- [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v2.0.0](https://github.com/soranoba/pageboy/releases/tag/v2.0.0), 2 weeks ago) - A SQL pagination library for golang with GORM.
+- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.11.0](https://github.com/soranoba/bbmustache/releases/tag/v1.11.0), 1 month ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 - [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.2](https://github.com/soranoba/googp/releases/tag/v1.0.2), 1 month ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
 - [soranoba/git-release-note](https://github.com/soranoba/git-release-note) ([1.1.0](https://github.com/soranoba/git-release-note/releases/tag/1.1.0), 3 months ago) - Release note generator for github
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) ([v0.2.5](https://github.com/go-gorm/gorm/releases/tag/v0.2.5), 5 months ago) - The fantastic ORM library for Golang, aims to be developer friendly
