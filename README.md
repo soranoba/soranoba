@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soranoba&show_icons=true&line_height=20&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 #### 👷  Check out what I'm currently working on
 
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) - A SQL pagination library for golang with GORM. (2 days ago)
