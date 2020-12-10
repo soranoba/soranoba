@@ -2,7 +2,7 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [soranoba/pageboy](https://github.com/soranoba/pageboy) - A SQL pagination library for golang with GORM. (2 days ago)
+- [soranoba/pageboy](https://github.com/soranoba/pageboy) - A SQL pagination library for golang with GORM. (3 days ago)
 - [soranoba/MantleArrayExtension](https://github.com/soranoba/MantleArrayExtension) - MantleArrayExtension support mutual conversion between Model object and character-delimited String with Mantle. (1 month ago)
 - [soranoba/henge](https://github.com/soranoba/henge) - Henge is a struct transrate library for Golang (1 month ago)
 - [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (1 month ago)
@@ -18,8 +18,8 @@
 
 #### 🚀  Latest releases I've contributed to
 
-- [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v2.1.0](https://github.com/soranoba/pageboy/releases/tag/v2.1.0), 2 days ago) - A SQL pagination library for golang with GORM.
+- [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v2.1.0](https://github.com/soranoba/pageboy/releases/tag/v2.1.0), 3 days ago) - A SQL pagination library for golang with GORM.
 - [vadymmarkov/Fakery](https://github.com/vadymmarkov/Fakery) ([5.0.0](https://github.com/vadymmarkov/Fakery/releases/tag/5.0.0), 3 weeks ago) - :alien: Swift fake data generator
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.11.0](https://github.com/soranoba/bbmustache/releases/tag/v1.11.0), 1 month ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 - [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.2](https://github.com/soranoba/googp/releases/tag/v1.0.2), 2 months ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
-- [soranoba/git-release-note](https://github.com/soranoba/git-release-note) ([1.1.0](https://github.com/soranoba/git-release-note/releases/tag/1.1.0), 3 months ago) - Release note generator for github
+- [soranoba/git-release-note](https://github.com/soranoba/git-release-note) ([1.1.0](https://github.com/soranoba/git-release-note/releases/tag/1.1.0), 4 months ago) - Release note generator for github
