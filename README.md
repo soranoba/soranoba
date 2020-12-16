@@ -19,7 +19,7 @@
 #### 🚀  Latest releases I've contributed to
 
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v2.1.0](https://github.com/soranoba/pageboy/releases/tag/v2.1.0), 1 week ago) - A SQL pagination library for golang with GORM.
-- [vadymmarkov/Fakery](https://github.com/vadymmarkov/Fakery) ([5.0.0](https://github.com/vadymmarkov/Fakery/releases/tag/5.0.0), 3 weeks ago) - :alien: Swift fake data generator
+- [vadymmarkov/Fakery](https://github.com/vadymmarkov/Fakery) ([5.0.0](https://github.com/vadymmarkov/Fakery/releases/tag/5.0.0), 4 weeks ago) - :alien: Swift fake data generator
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.11.0](https://github.com/soranoba/bbmustache/releases/tag/v1.11.0), 2 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 - [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.2](https://github.com/soranoba/googp/releases/tag/v1.0.2), 2 months ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
 - [soranoba/git-release-note](https://github.com/soranoba/git-release-note) ([1.1.0](https://github.com/soranoba/git-release-note/releases/tag/1.1.0), 4 months ago) - Release note generator for github
