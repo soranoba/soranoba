@@ -18,7 +18,7 @@
 
 #### 🚀  Latest releases I've contributed to
 
-- [benoitc/hackney](https://github.com/benoitc/hackney) ([v1.17.0](https://github.com/benoitc/hackney/releases/tag/v1.17.0), 5 days ago) - simple HTTP client in Erlang
+- [benoitc/hackney](https://github.com/benoitc/hackney) ([v1.17.0](https://github.com/benoitc/hackney/releases/tag/v1.17.0), 6 days ago) - simple HTTP client in Erlang
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v2.1.0](https://github.com/soranoba/pageboy/releases/tag/v2.1.0), 2 weeks ago) - A SQL pagination library for golang with GORM.
 - [vadymmarkov/Fakery](https://github.com/vadymmarkov/Fakery) ([5.0.0](https://github.com/vadymmarkov/Fakery/releases/tag/5.0.0), 1 month ago) - :alien: Swift fake data generator
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.11.0](https://github.com/soranoba/bbmustache/releases/tag/v1.11.0), 2 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
