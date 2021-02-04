@@ -2,7 +2,7 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (6 days ago)
+- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (1 week ago)
 - [soranoba/henge](https://github.com/soranoba/henge) - Henge is a type conversion library for Golang (1 week ago)
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) - A SQL pagination library for golang with GORM. (1 week ago)
 - [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (3 months ago)
