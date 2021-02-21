@@ -22,4 +22,4 @@
 - [soranoba/henge](https://github.com/soranoba/henge) ([v1.2.1](https://github.com/soranoba/henge/releases/tag/v1.2.1), 3 weeks ago) - Henge is a type conversion library for Golang
 - [benoitc/hackney](https://github.com/benoitc/hackney) ([v1.17.0](https://github.com/benoitc/hackney/releases/tag/v1.17.0), 2 months ago) - simple HTTP client in Erlang
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.11.0](https://github.com/soranoba/bbmustache/releases/tag/v1.11.0), 4 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
-- [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.2](https://github.com/soranoba/googp/releases/tag/v1.0.2), 4 months ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
+- [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.2](https://github.com/soranoba/googp/releases/tag/v1.0.2), 5 months ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
