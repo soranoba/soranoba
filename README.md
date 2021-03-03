@@ -5,8 +5,8 @@
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) - A SQL pagination library for golang with GORM. (3 weeks ago)
 - [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (1 month ago)
 - [soranoba/henge](https://github.com/soranoba/henge) - Henge is a type conversion library for Golang (1 month ago)
-- [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (3 months ago)
-- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP. (3 months ago)
+- [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (4 months ago)
+- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP. (4 months ago)
 
 #### 🖋️  My latest projects
 
