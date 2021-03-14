@@ -22,4 +22,4 @@
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) ([v1.21.0](https://github.com/go-gorm/gorm/releases/tag/v1.21.0), 1 week ago) - The fantastic ORM library for Golang, aims to be developer friendly
 - [soranoba/henge](https://github.com/soranoba/henge) ([v1.2.1](https://github.com/soranoba/henge/releases/tag/v1.2.1), 1 month ago) - Henge is a type conversion library for Golang
 - [benoitc/hackney](https://github.com/benoitc/hackney) ([v1.17.0](https://github.com/benoitc/hackney/releases/tag/v1.17.0), 2 months ago) - simple HTTP client in Erlang
-- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.11.0](https://github.com/soranoba/bbmustache/releases/tag/v1.11.0), 4 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
+- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.11.0](https://github.com/soranoba/bbmustache/releases/tag/v1.11.0), 5 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
