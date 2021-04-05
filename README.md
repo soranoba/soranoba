@@ -3,8 +3,8 @@
 #### 👷  Check out what I'm currently working on
 
 - [soranoba/erlup](https://github.com/soranoba/erlup) - Upgrade tools for Erlang/OTP. Contains rebar3 plugin and escript. (1 week ago)
-- [soranoba/rebar3_git_vsn](https://github.com/soranoba/rebar3_git_vsn) - Provider for generate the version from git. (1 week ago)
 - [soranoba/MantleArrayExtension](https://github.com/soranoba/MantleArrayExtension) - MantleArrayExtension support mutual conversion between Model object and character-delimited String with Mantle. (1 week ago)
+- [soranoba/rebar3_git_vsn](https://github.com/soranoba/rebar3_git_vsn) - Provider for generate the version from git. (1 week ago)
 - [soranoba/MantleXMLExtension](https://github.com/soranoba/MantleXMLExtension) - MantleXMLExtension support mutual conversion between Model object and XML with Mantle. (1 week ago)
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP. (1 week ago)
 
