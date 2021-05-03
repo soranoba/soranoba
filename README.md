@@ -19,7 +19,7 @@
 #### 🚀  Latest releases I've contributed to
 
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v2.2.2](https://github.com/soranoba/pageboy/releases/tag/v2.2.2), 1 week ago) - A SQL pagination library for golang with GORM.
-- [go-gorm/gorm](https://github.com/go-gorm/gorm) ([v1.21.0](https://github.com/go-gorm/gorm/releases/tag/v1.21.0), 1 month ago) - The fantastic ORM library for Golang, aims to be developer friendly
+- [go-gorm/gorm](https://github.com/go-gorm/gorm) ([v1.21.0](https://github.com/go-gorm/gorm/releases/tag/v1.21.0), 2 months ago) - The fantastic ORM library for Golang, aims to be developer friendly
 - [soranoba/henge](https://github.com/soranoba/henge) ([v1.2.1](https://github.com/soranoba/henge/releases/tag/v1.2.1), 3 months ago) - Henge is a type conversion library for Golang
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.11.0](https://github.com/soranoba/bbmustache/releases/tag/v1.11.0), 6 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 - [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.2](https://github.com/soranoba/googp/releases/tag/v1.0.2), 7 months ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
