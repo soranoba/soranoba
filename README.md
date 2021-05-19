@@ -2,9 +2,9 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP. (today)
-- [soranoba/rebar3_git_vsn](https://github.com/soranoba/rebar3_git_vsn) - Provider for generate the version from git. (today)
-- [soranoba/erlup](https://github.com/soranoba/erlup) - Upgrade tools for Erlang/OTP. Contains rebar3 plugin and escript. (today)
+- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP. (1 day ago)
+- [soranoba/rebar3_git_vsn](https://github.com/soranoba/rebar3_git_vsn) - Provider for generate the version from git. (1 day ago)
+- [soranoba/erlup](https://github.com/soranoba/erlup) - Upgrade tools for Erlang/OTP. Contains rebar3 plugin and escript. (1 day ago)
 - [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (1 week ago)
 - [soranoba/henge](https://github.com/soranoba/henge) - Henge is a type conversion library for Golang (1 week ago)
 
