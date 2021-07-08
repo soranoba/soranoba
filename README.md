@@ -22,4 +22,4 @@
 - [soranoba/henge](https://github.com/soranoba/henge) ([v2.0.0](https://github.com/soranoba/henge/releases/tag/v2.0.0), 1 month ago) - Henge is a type conversion library for Golang
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.12.1](https://github.com/soranoba/bbmustache/releases/tag/v1.12.1), 2 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 - [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.2](https://github.com/soranoba/googp/releases/tag/v1.0.2), 9 months ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
-- [soranoba/git-release-note](https://github.com/soranoba/git-release-note) ([1.1.0](https://github.com/soranoba/git-release-note/releases/tag/1.1.0), 10 months ago) - Release note generator for github
+- [soranoba/git-release-note](https://github.com/soranoba/git-release-note) ([1.1.0](https://github.com/soranoba/git-release-note/releases/tag/1.1.0), 11 months ago) - Release note generator for github
