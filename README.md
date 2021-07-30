@@ -2,7 +2,7 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [soranoba/minamo](https://github.com/soranoba/minamo) -  (3 days ago)
+- [soranoba/minamo](https://github.com/soranoba/minamo) -  (4 days ago)
 - [soranoba/elsearm](https://github.com/soranoba/elsearm) -  (2 weeks ago)
 - [soranoba/rebar3_git_vsn](https://github.com/soranoba/rebar3_git_vsn) - Provider for generate the version from git. (2 months ago)
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) - A SQL pagination library for golang with GORM. (2 months ago)
