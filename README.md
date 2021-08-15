@@ -2,7 +2,7 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (3 days ago)
+- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (4 days ago)
 - [soranoba/dockerfile](https://github.com/soranoba/dockerfile) - dockerfile置き場 (1 week ago)
 - [soranoba/elsearm](https://github.com/soranoba/elsearm) -  (1 month ago)
 - [soranoba/rebar3_git_vsn](https://github.com/soranoba/rebar3_git_vsn) - Provider for generate the version from git. (2 months ago)
