@@ -2,8 +2,8 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [soranoba/NotificationSandbox](https://github.com/soranoba/NotificationSandbox) -  (5 days ago)
-- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (3 weeks ago)
+- [soranoba/NotificationSandbox](https://github.com/soranoba/NotificationSandbox) -  (6 days ago)
+- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (4 weeks ago)
 - [soranoba/dockerfile](https://github.com/soranoba/dockerfile) - dockerfile置き場 (1 month ago)
 - [soranoba/elsearm](https://github.com/soranoba/elsearm) -  (1 month ago)
 - [soranoba/rebar3_git_vsn](https://github.com/soranoba/rebar3_git_vsn) - Provider for generate the version from git. (3 months ago)
