@@ -2,11 +2,11 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (today)
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (1 day ago)
 - [soranoba/NotificationSandbox](https://github.com/soranoba/NotificationSandbox) -  (1 week ago)
 - [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (1 month ago)
 - [soranoba/dockerfile](https://github.com/soranoba/dockerfile) - dockerfile置き場 (1 month ago)
-- [soranoba/elsearm](https://github.com/soranoba/elsearm) -  (1 month ago)
+- [soranoba/elsearm](https://github.com/soranoba/elsearm) -  (2 months ago)
 
 #### 🖋️  My latest projects
 
