@@ -22,4 +22,4 @@
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v3.0.0](https://github.com/soranoba/pageboy/releases/tag/v3.0.0), 3 months ago) - A SQL pagination library for golang with GORM.
 - [soranoba/henge](https://github.com/soranoba/henge) ([v2.0.0](https://github.com/soranoba/henge/releases/tag/v2.0.0), 4 months ago) - Henge is a type conversion library for Golang
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.12.1](https://github.com/soranoba/bbmustache/releases/tag/v1.12.1), 4 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
-- [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.2](https://github.com/soranoba/googp/releases/tag/v1.0.2), 11 months ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
+- [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.2](https://github.com/soranoba/googp/releases/tag/v1.0.2), 1 year ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
