@@ -2,7 +2,7 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (6 days ago)
+- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (1 week ago)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (1 month ago)
 - [soranoba/NotificationSandbox](https://github.com/soranoba/NotificationSandbox) -  (1 month ago)
 - [soranoba/dockerfile](https://github.com/soranoba/dockerfile) - dockerfile置き場 (2 months ago)
