@@ -18,7 +18,7 @@
 
 #### 🚀  Latest releases I've contributed to
 
-- [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v3.0.1](https://github.com/soranoba/pageboy/releases/tag/v3.0.1), 1 day ago) - A SQL pagination library for golang with GORM.
+- [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v3.0.2](https://github.com/soranoba/pageboy/releases/tag/v3.0.2), 1 day ago) - A SQL pagination library for golang with GORM.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), 2 weeks ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.12.2](https://github.com/soranoba/bbmustache/releases/tag/v1.12.2), 3 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 - [soranoba/henge](https://github.com/soranoba/henge) ([v2.0.0](https://github.com/soranoba/henge/releases/tag/v2.0.0), 9 months ago) - Henge is a type conversion library for Golang
