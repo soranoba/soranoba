@@ -2,11 +2,11 @@
 
 #### 👷  Check out what I'm currently working on
 
+- [soranoba/MantleArrayExtension](https://github.com/soranoba/MantleArrayExtension) - MantleArrayExtension support mutual conversion between Model object and character-delimited String with Mantle. (1 day ago)
+- [soranoba/MantleXMLExtension](https://github.com/soranoba/MantleXMLExtension) - MantleXMLExtension support mutual conversion between Model object and XML with Mantle. (1 day ago)
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) - A SQL pagination library for golang with GORM. (1 month ago)
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP. (2 months ago)
 - [soranoba/elsearm](https://github.com/soranoba/elsearm) -  (3 months ago)
-- [soranoba/dockerfile](https://github.com/soranoba/dockerfile) - dockerfile置き場 (4 months ago)
-- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (5 months ago)
 
 #### 🖋️  My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🚀  Latest releases I've contributed to
 
+- [soranoba/MantleArrayExtension](https://github.com/soranoba/MantleArrayExtension) ([2.0.3](https://github.com/soranoba/MantleArrayExtension/releases/tag/2.0.3), 1 day ago) - MantleArrayExtension support mutual conversion between Model object and character-delimited String with Mantle.
+- [soranoba/MantleXMLExtension](https://github.com/soranoba/MantleXMLExtension) ([1.2.3](https://github.com/soranoba/MantleXMLExtension/releases/tag/1.2.3), 1 day ago) - MantleXMLExtension support mutual conversion between Model object and XML with Mantle.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.1](https://github.com/golang-jwt/jwt/releases/tag/v4.4.1), 1 week ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v3.0.2](https://github.com/soranoba/pageboy/releases/tag/v3.0.2), 1 month ago) - A SQL pagination library for golang with GORM.
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.12.2](https://github.com/soranoba/bbmustache/releases/tag/v1.12.2), 4 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
-- [soranoba/henge](https://github.com/soranoba/henge) ([v2.0.0](https://github.com/soranoba/henge/releases/tag/v2.0.0), 11 months ago) - Henge is a type conversion library for Golang
-- [soranoba/rebar3_git_vsn](https://github.com/soranoba/rebar3_git_vsn) ([v1.1.1](https://github.com/soranoba/rebar3_git_vsn/releases/tag/v1.1.1), 3 years ago) - Provider for generate the version from git.
