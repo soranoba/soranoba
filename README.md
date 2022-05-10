@@ -22,4 +22,4 @@
 - [soranoba/MantleXMLExtension](https://github.com/soranoba/MantleXMLExtension) ([1.2.3](https://github.com/soranoba/MantleXMLExtension/releases/tag/1.2.3), 1 month ago) - MantleXMLExtension support mutual conversion between Model object and XML with Mantle.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.1](https://github.com/golang-jwt/jwt/releases/tag/v4.4.1), 1 month ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v3.0.2](https://github.com/soranoba/pageboy/releases/tag/v3.0.2), 2 months ago) - A SQL pagination library for golang with GORM.
-- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.12.2](https://github.com/soranoba/bbmustache/releases/tag/v1.12.2), 5 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
+- [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.12.2](https://github.com/soranoba/bbmustache/releases/tag/v1.12.2), 6 months ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
