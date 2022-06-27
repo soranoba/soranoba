@@ -18,7 +18,7 @@
 
 #### 🚀  Latest releases I've contributed to
 
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.2](https://github.com/golang-jwt/jwt/releases/tag/v4.4.2), 3 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.2](https://github.com/golang-jwt/jwt/releases/tag/v4.4.2), 4 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [soranoba/MantleArrayExtension](https://github.com/soranoba/MantleArrayExtension) ([2.0.3](https://github.com/soranoba/MantleArrayExtension/releases/tag/2.0.3), 2 months ago) - MantleArrayExtension support mutual conversion between Model object and character-delimited String with Mantle.
 - [soranoba/MantleXMLExtension](https://github.com/soranoba/MantleXMLExtension) ([1.2.3](https://github.com/soranoba/MantleXMLExtension/releases/tag/1.2.3), 2 months ago) - MantleXMLExtension support mutual conversion between Model object and XML with Mantle.
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v3.0.2](https://github.com/soranoba/pageboy/releases/tag/v3.0.2), 3 months ago) - A SQL pagination library for golang with GORM.
