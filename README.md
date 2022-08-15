@@ -2,11 +2,11 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [bxcodec/faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct (1 day ago)
-- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (2 days ago)
+- [bxcodec/faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct (2 days ago)
+- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (3 days ago)
 - [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (1 month ago)
-- [soranoba/MantleXMLExtension](https://github.com/soranoba/MantleXMLExtension) - MantleXMLExtension support mutual conversion between Model object and XML with Mantle. (4 months ago)
 - [soranoba/MantleArrayExtension](https://github.com/soranoba/MantleArrayExtension) - MantleArrayExtension support mutual conversion between Model object and character-delimited String with Mantle. (4 months ago)
+- [soranoba/MantleXMLExtension](https://github.com/soranoba/MantleXMLExtension) - MantleXMLExtension support mutual conversion between Model object and XML with Mantle. (4 months ago)
 
 #### 🖋️  My latest projects
 
