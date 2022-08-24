@@ -18,7 +18,7 @@
 
 #### 🚀  Latest releases I've contributed to
 
-- [bxcodec/faker](https://github.com/bxcodec/faker) ([v4.0.0-beta](https://github.com/bxcodec/faker/releases/tag/v4.0.0-beta), 3 days ago) - Go (Golang)  Fake Data  Generator for Struct
+- [bxcodec/faker](https://github.com/bxcodec/faker) ([v4.0.0-beta](https://github.com/bxcodec/faker/releases/tag/v4.0.0-beta), 4 days ago) - Go (Golang)  Fake Data  Generator for Struct
 - [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.3](https://github.com/soranoba/googp/releases/tag/v1.0.3), 1 month ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.2](https://github.com/golang-jwt/jwt/releases/tag/v4.4.2), 2 months ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [soranoba/MantleArrayExtension](https://github.com/soranoba/MantleArrayExtension) ([2.0.3](https://github.com/soranoba/MantleArrayExtension/releases/tag/2.0.3), 4 months ago) - MantleArrayExtension support mutual conversion between Model object and character-delimited String with Mantle.
