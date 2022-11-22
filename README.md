@@ -2,7 +2,7 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [soranoba/catfish](https://github.com/soranoba/catfish) - Useful dummy server used for development. (2 days ago)
+- [soranoba/catfish](https://github.com/soranoba/catfish) - Useful dummy server used for development. (3 days ago)
 - [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (1 week ago)
 - [bxcodec/faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct. [Notes]This repository is archived, moved to the new repository https://github.com/go-faker/faker (3 months ago)
 - [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (4 months ago)
