@@ -22,4 +22,4 @@
 - [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.3](https://github.com/soranoba/googp/releases/tag/v1.0.3), 5 months ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
 - [soranoba/MantleArrayExtension](https://github.com/soranoba/MantleArrayExtension) ([2.0.3](https://github.com/soranoba/MantleArrayExtension/releases/tag/2.0.3), 8 months ago) - MantleArrayExtension support mutual conversion between Model object and character-delimited String with Mantle.
 - [soranoba/MantleXMLExtension](https://github.com/soranoba/MantleXMLExtension) ([1.2.3](https://github.com/soranoba/MantleXMLExtension/releases/tag/1.2.3), 8 months ago) - MantleXMLExtension support mutual conversion between Model object and XML with Mantle.
-- [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v3.0.2](https://github.com/soranoba/pageboy/releases/tag/v3.0.2), 9 months ago) - A SQL pagination library for golang with GORM.
+- [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v3.0.2](https://github.com/soranoba/pageboy/releases/tag/v3.0.2), 10 months ago) - A SQL pagination library for golang with GORM.
