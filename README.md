@@ -19,5 +19,5 @@
 #### 🚀  Latest releases I've contributed to
 
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) ([v4.0.0](https://github.com/soranoba/pageboy/releases/tag/v4.0.0), 3 months ago) - A SQL pagination library for golang with GORM.
-- [bxcodec/faker](https://github.com/bxcodec/faker) ([v3.8.1](https://github.com/bxcodec/faker/releases/tag/v3.8.1), 4 months ago) - Go (Golang)  Fake Data  Generator for Struct. [Notes]This repository is archived, moved to the new repository https://github.com/go-faker/faker
+- [bxcodec/faker](https://github.com/bxcodec/faker) ([v3.8.1](https://github.com/bxcodec/faker/releases/tag/v3.8.1), 5 months ago) - Go (Golang)  Fake Data  Generator for Struct. [Notes]This repository is archived, moved to the new repository https://github.com/go-faker/faker
 - [soranoba/googp](https://github.com/soranoba/googp) ([v1.0.3](https://github.com/soranoba/googp/releases/tag/v1.0.3), 10 months ago) - googp is an OGP (Open Graph protocol) parser library for Golang.
