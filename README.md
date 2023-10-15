@@ -5,7 +5,7 @@
 - [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (5 months ago)
 - [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (5 months ago)
 - [soranoba/pageboy](https://github.com/soranoba/pageboy) - A SQL pagination library for golang with GORM. (8 months ago)
-- [soranoba/catfish](https://github.com/soranoba/catfish) - Useful dummy server used for development. (10 months ago)
+- [soranoba/catfish](https://github.com/soranoba/catfish) - Useful dummy server used for development. (11 months ago)
 
 #### 🖋️  My latest projects
 
