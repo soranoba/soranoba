@@ -4,8 +4,8 @@
 
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP. (1 month ago)
 - [soranoba/rebar3_raw_deps](https://github.com/soranoba/rebar3_raw_deps) - Provider for supporting the raw deps. (3 months ago)
-- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (9 months ago)
-- [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (9 months ago)
+- [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (10 months ago)
+- [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (10 months ago)
 
 #### 🖋️  My latest projects
 
