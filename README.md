@@ -4,7 +4,7 @@
 
 - [soranoba/henge](https://github.com/soranoba/henge) - Henge is a type conversion library for Golang (4 weeks ago)
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP. (3 months ago)
-- [soranoba/rebar3_raw_deps](https://github.com/soranoba/rebar3_raw_deps) - Provider for supporting the raw deps. (4 months ago)
+- [soranoba/rebar3_raw_deps](https://github.com/soranoba/rebar3_raw_deps) - Provider for supporting the raw deps. (5 months ago)
 - [soranoba/valis](https://github.com/soranoba/valis) - valis is a validation framework for Go. (11 months ago)
 - [soranoba/googp](https://github.com/soranoba/googp) - googp is an OGP (Open Graph protocol) parser library for Golang. (11 months ago)
 
