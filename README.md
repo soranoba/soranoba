@@ -18,4 +18,3 @@
 
 - [soranoba/henge](https://github.com/soranoba/henge) ([v2.1.0](https://github.com/soranoba/henge/releases/tag/v2.1.0), 8 months ago) - Henge is a type conversion library for Golang
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.12.2](https://github.com/soranoba/bbmustache/releases/tag/v1.12.2), 3 years ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
-- [soranoba/rebar3_raw_deps](https://github.com/soranoba/rebar3_raw_deps) ([v2.0.0](https://github.com/soranoba/rebar3_raw_deps/releases/tag/v2.0.0), 8 years ago) - Provider for supporting the raw deps.
