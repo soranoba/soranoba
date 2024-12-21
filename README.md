@@ -16,6 +16,6 @@
 
 #### 🚀  Latest releases I've contributed to
 
-- [Quick/Nimble](https://github.com/Quick/Nimble) ([v13.7.1](https://github.com/Quick/Nimble/releases/tag/v13.7.1), 4 days ago) - A Matcher Framework for Swift and Objective-C
+- [Quick/Nimble](https://github.com/Quick/Nimble) ([v13.7.1](https://github.com/Quick/Nimble/releases/tag/v13.7.1), 5 days ago) - A Matcher Framework for Swift and Objective-C
 - [soranoba/henge](https://github.com/soranoba/henge) ([v2.1.0](https://github.com/soranoba/henge/releases/tag/v2.1.0), 8 months ago) - Henge is a type conversion library for Golang
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) ([v1.12.2](https://github.com/soranoba/bbmustache/releases/tag/v1.12.2), 3 years ago) - Binary pattern match Based Mustache template engine for Erlang/OTP.
