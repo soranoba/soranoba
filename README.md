@@ -2,7 +2,7 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C (1 week ago)
+- [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C (2 weeks ago)
 - [soranoba/henge](https://github.com/soranoba/henge) - Henge is a type conversion library for Golang (8 months ago)
 - [soranoba/bbmustache](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP. (11 months ago)
 
