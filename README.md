@@ -16,4 +16,3 @@
 #### 🚀  Latest releases I've contributed to
 
 - [Quick/Nimble](https://github.com/Quick/Nimble) ([v13.7.1](https://github.com/Quick/Nimble/releases/tag/v13.7.1), 3 months ago) - A Matcher Framework for Swift and Objective-C
-- [soranoba/henge](https://github.com/soranoba/henge) ([v2.1.0](https://github.com/soranoba/henge/releases/tag/v2.1.0), 1 year ago) - Henge is a type conversion library for Golang
