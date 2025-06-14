@@ -14,4 +14,4 @@
 
 #### 🚀  Latest releases I've contributed to
 
-- [Quick/Nimble](https://github.com/Quick/Nimble) ([v13.7.1](https://github.com/Quick/Nimble/releases/tag/v13.7.1), 5 months ago) - A Matcher Framework for Swift and Objective-C
+- [Quick/Nimble](https://github.com/Quick/Nimble) ([v13.7.1](https://github.com/Quick/Nimble/releases/tag/v13.7.1), 6 months ago) - A Matcher Framework for Swift and Objective-C
