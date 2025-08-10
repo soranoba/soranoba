@@ -2,7 +2,7 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C (7 months ago)
+- [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C (8 months ago)
 
 #### 🖋️  My latest projects
 
