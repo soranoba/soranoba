@@ -2,7 +2,7 @@
 
 #### 👷  Check out what I'm currently working on
 
-- [soranoba/claude-knowledge-qa-command](https://github.com/soranoba/claude-knowledge-qa-command) -  (4 months ago)
+- [soranoba/claude-knowledge-qa-command](https://github.com/soranoba/claude-knowledge-qa-command) -  (5 months ago)
 
 #### 🖋️  My latest projects
 
